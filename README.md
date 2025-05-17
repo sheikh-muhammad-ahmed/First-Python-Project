@@ -29,11 +29,10 @@ In this project, I:
 
 ## 📂 Project Structure
 
-'''
+
 GHMD pandas project/
 │
 ├── Python First Project(GHM).ipynb # Main Jupyter Notebook
 ├── global_housing_market_raw.csv # Raw Data
 ├── requirements.txt # Python dependencies
 └── README.md # Project description
-'''
